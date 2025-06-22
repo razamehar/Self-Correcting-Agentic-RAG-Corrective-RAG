@@ -17,6 +17,10 @@ This project presents a Retrieval-Augmented Generation system that intelligently
 
 ---
 
+## Worflow
+![Workflow Diagram](workflow.png)
+
+
 ## Setup Instructions
 
 ### Requirements
