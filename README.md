@@ -39,7 +39,7 @@ cd Self-Correcting-Agentic-RAG-Corrective-RAG
 
 2. Install dependencies:
 ```bash
-3. pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Contact 
