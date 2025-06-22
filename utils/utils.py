@@ -1,5 +1,5 @@
 import re
-from langchain.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import PyPDFLoader
 
 
 def preprocess_text(text: str) -> str:

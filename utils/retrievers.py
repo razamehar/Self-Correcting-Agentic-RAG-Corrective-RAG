@@ -1,5 +1,5 @@
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores import Chroma
+from langchain_community.vectorstores import Chroma
 from langchain.retrievers import ParentDocumentRetriever, EnsembleRetriever
 from langchain.storage import InMemoryStore
 from langchain_community.retrievers import BM25Retriever

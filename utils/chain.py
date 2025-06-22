@@ -1,6 +1,6 @@
 from langchain_core.output_parsers import StrOutputParser
-from config.prompts import multiple_queries_prompt, grade_prompt, prompt_from_hub, re_write_prompt
-from utils.data_models import GradeDocuments
+from prompt_library.prompts import multiple_queries_prompt, grade_prompt, prompt_from_hub, re_write_prompt
+from data_models.models import GradeDocuments
 
 
 def get_generate_queries_chain(llm):
